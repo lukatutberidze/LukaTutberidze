@@ -7,7 +7,7 @@
 
 - Currently mastering algorithms and data structures. Beginner in ML
 
-- Fun fact: Top 400 user of codewars.
+- Fun fact: I'm among the top 400 users of codewars.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
