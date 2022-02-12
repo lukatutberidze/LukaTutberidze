@@ -1,9 +1,11 @@
 <h1 align="center">Welcome, I'm Luka Tutberidze</h1>
 <h3 align="center">A hardworking Python developer.</h3>
 
-- 👨‍💻 All of my projects are available in [My Github repositories](My Github repositories)
+- 👨‍💻 All of my projects are available in My Github repositories
 
 - 📫 How to reach me **ltutber04@gmail.com**
+
+- Currently mastering algorithms and data structures. Beginner in ML
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
