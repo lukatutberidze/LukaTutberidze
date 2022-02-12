@@ -3,9 +3,11 @@
 
 - 👨‍💻 All of my projects are available in my Github repositories
 
-- 📫 How to reach me **ltutber04@gmail.com**
+- 📫 Contact me via this email: **ltutber04@gmail.com**
 
 - Currently mastering algorithms and data structures. Beginner in ML
+
+- Fun fact: Top 400 user of codewars.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
