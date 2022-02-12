@@ -1,8 +1,6 @@
 <h1 align="center">Welcome, I'm Luka Tutberidze</h1>
 <h3 align="center">A hardworking Python developer.</h3>
 
-- 👨‍💻 All of my projects are available in my Github repositories
-
 - 📫 Contact me via this email: **ltutber04@gmail.com**
 
 - Currently mastering algorithms and data structures. Beginner in ML
