@@ -5,7 +5,7 @@
 
 - Currently mastering algorithms and data structures. Beginner in ML
 
-- Fun fact: I'm among the top 200 users of codewars.
+- Fun fact: On codewars, I'm among the top 100 in python.
 
 - Student at SCSA - Scientific Cyber Security Associaction
 
