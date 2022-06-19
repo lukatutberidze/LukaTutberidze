@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Luka Tutberidze</h1>
+<h1 align="center">Welcome, I'm Luka</h1>
 <h3 align="center">A hardworking Python developer.</h3>
 
 - Contact me via this email: **ltutber04@gmail.com**
