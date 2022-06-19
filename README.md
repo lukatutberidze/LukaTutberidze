@@ -7,7 +7,6 @@
 
 - Fun fact: On codewars, I'm among the top 100 in python.
 
-- Student at SCSA - Scientific Cyber Security Associaction
 
 
 <h3 align="left">Languages and Tools:</h3>
