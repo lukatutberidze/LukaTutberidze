@@ -2,10 +2,6 @@
 
 - Contact me via this email: **ltutber04@gmail.com**
 
-- Currently mastering algorithms and data structures. Beginner in ML
-
-- Fun fact: On codewars, I'm among the top 100 in python.
-
 
 
 <h3 align="left">Languages and Tools:</h3>
