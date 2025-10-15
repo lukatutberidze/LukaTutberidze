@@ -1,7 +1,5 @@
 <h1 align="center">Welcome, I'm Luka</h1>
 
-- Contact me via this email: **ltutber04@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
